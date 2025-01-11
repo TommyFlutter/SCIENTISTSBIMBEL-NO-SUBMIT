@@ -1,0 +1,222 @@
+    {
+    "books": [
+      {
+        "id": "6c7bqjgi84kcowlqdz",
+        "name": "Bimbel Kls 4 MTK",
+        "description": "Buku ini disajikan atas 6 bab yakni (1) bilangan cacah sampai 10.000 (2) pecahan (3) pola gambar dan pola bilangan (4) pengukuran luas dan volume (5) bangun datar dan (6) piktogram dan diagram batang.",
+        "pictureId": "01.png",
+        "Kurikulum": "Merdeka",
+        "rating": 4.6,
+        "soal": "Suatu sekolah memilih 30 siswa dari 100 orang siswa yang akan diikutkan lomba berlari. Tentukan berapa persen siswa yang terpilih lomba lari tersebut!",
+        "jawab": "Jawab 30/100 x 100 % = 30 %" 
+      },
+      {
+        "id": "ljx8i0qu2uckcowlqdz",
+        "name": "Bimbel Kls 5 MTK",
+        "description": "Buku ini disajikan dalam sembilan bab, yakni (1) Bilangan Cacah Sampai 100.000, (2) KPK dan FPB, (3) Bilangan Pecahan, (4) Keliling Bangun Datar, (5) Luas Daerah Bangun Datar, (6) Sudut, (7) Membandingkan Ciri-Ciri Bangun Datar, (8) Data, dan (9) Bilangan Cacah Sampai 1.000.000 yang disajikan dengan cara yang mudah dipahami.",
+        "pictureId": "02.png",
+        "Kurikulum": "Merdeka",
+        "rating": 4.6,
+        "soal": "Beni memiliki 1 1/8 bagian bika Ambon. Sebanyak 1/8 bagian bika Ambon diberikan kepada neneknya. Berapa bagian sisa bika Ambon yang masih dimiliki Beni?",
+        "jawab": "jawab1 1/8 - 1/8 = 1 bagian  " 
+      },
+      {
+        "id": "fe8bbxoazddkcowlqdz",
+        "name": "Bimbel Kls 6 MTK",
+        "description": "Buku ini disajikan dalam empat bab, yakni Bab 1 Pecahan dan Desimal Bab 2 Rasio Bab 3 Kubus dan Balok Bab 4 Peluang . ",
+        "pictureId": "03.png",
+        "Kurikulum": "Merdeka",
+        "rating": 4.8,
+        "soal": "Banyu dapat menempuh jarak sepanjang 1 km dalam waktu 30 menit. Jawablah pertanyaan berikut. a. Berapakah jarak yang ditempuh Banyu dalam waktu 1 jam? b. Dengan kecepatan yang sama, berapa waktu yang diperlukan Banyu jika menempuh jarak sejauh 9 km? c. Jika Banyu berjalan selama 3,5 jam, berapa jarak yang ia tempuh?",
+        "jawab": "jawab a. 2 km b. 4,5 jam c. 7 km" 
+      },
+      {
+        "id": "ik1zljmlf68kcowlqdz",
+        "name": "Bimbel Kls 7 MTK",
+        "description": "Buku ini disajikan dalam enam bab, yakni Bab 1 Bilangan Bulat Bab 2 Bilangan Rasional Bab 3 Rasio Bab 4 Bentuk Aljabar Bab 5 Kesebangunan Bab 6 Data dan Diagram",
+        "pictureId": "04.png",
+        "Kurikulum": "Merdeka",
+        "rating": 4.7,
+        "soal": "Umur Tono kali umur ayah. Umur kakek saat ini 2,25 kali umur ayah. Umur ayah sekarang adalah 28 tahun. a. Berapakah umur Tono saat ini? b. Berapakah umur kakek saat ini? c. Berapakah umur ayah saat Tono lahir?",
+        "jawab": "jawab a.1/7 x 28 = 4 ; Umur Tono adalah 4 tahun     b. 2,25 x 28 = 63 ; Umur kakek adalah 63 tahun     c. 28 - 4 = 24 ; Umur ayah saat Tono lahir adalah 24 tahun " 
+      },
+      {
+        "id": "9jpuzkm6n6jkcowlqdz",
+        "name": "Bimbel kls 8 MTK",
+        "description": "Buku ini disajikan dalam enam bab, yakni Bab 1 Bilangan Berpangkat Bab 2 Teorema Pythagoras Bab 3 Persamaan Linier dan Pertidaksamaan Linier Satu Variabel Bab 4 Relasi Dan Fungsi Bab 5 Persamaan Garis Lurus Bab 6 Statistika",
+        "pictureId": "05.png",
+       "Kurikulum": "Merdeka",
+        "rating": 3.8,
+        "soal": "Berikut ini adalah ketentuan tarif yang diberlakukan oleh perusahaan taksi: 1. Biaya tarif awal sebesar Rp7.500,00 dan tarif per kilometer sebesar Rp3.000,00. 2. Berapa besar tarif yang dibutuhkan untuk perjalanan sejauh 20 km, 25 km, 30 km? 3. Dapatkah kalian menetapkan tarif untuk perjalanan sejauh 36 km?",
+        "jawab": "jawab masalah awal penentuan rumus fungsi untuk masalah tarif taksi yang dibahas di atas. Beberapa harga sewa taksi telah disampaikan sebelumnya, selanjutnya akan ditunjukkan lebih rinci seperti uraian berikut ini. Besar biaya untuk 20 km = Rp7.500,00 + 20 x Rp3.000,00 = Rp67.500,00 Besar biaya untuk 25 km = Rp7.500,00 + 25 x Rp3.000,00 = Rp82.500,00 Besar biaya untuk 30 km = Rp7.500,00 + 30 x Rp3.000,00 = Rp97.500,00 Cobalah perhatikan dengan cermat terhadap angka yang muncul di setiap persamaan berikut: Besar biaya untuk 20 km = Rp7.500,00 + 20 x Rp3.000,00 Besar biaya untuk 25 km = Rp7.500,00 + 25 x Rp3.000,00 Besar biaya untuk 30 km = Rp7.500,00 + 30 x Rp3.000,00 Jika B(x) adalah tarif naik taksi untuk x kilometer, maka B(x) dapat dinyatakan sebagai persamaan B(x)= 7500 + 3000 x"  
+      },
+      {
+        "id": "cpl5jpsnuqkkcowlqdz",
+         "name": "Bimbel kls 9 MTK",
+         "description": "Buku ini disajikan dalam empat bab, yakni Bab 1 Sistem Persamaan Linear Dua Variabel Bab 2 Bangun Ruang Bab 3 Transformasi Geometri Bab 4 Peluang dan Pemilihan Sampel",
+         "pictureId": "06.png",
+         "Kurikulum": "Merdeka",
+         "rating": 4.6,
+         "soal": "Tissa pergi ke toko alat tulis. Ia membeli 3 buku tulis dan 5 bolpoin dengan membayar Rp19.000,00. Buatlah model matematika dari permasalahan tersebut. Misalkan m menyatakan harga 1 buku tulis dan n menyatakan harga 1 bolpoin. Dengan demikian, harga 3 buku tulis adalah 3m, harga 5 bolpoin 5n dan total harga adalah Rp19.000,00. Persamaan linear dua variabel dapat dituliskan sebagai berikut. 3m + 5n = 19.000",
+         "jawab": "jawab Perhatikan kasus pada Contoh 1.1. Dapatkah kalian menentukan harga 1 buku tulis dan harga 1 bolpoin? Persamaan pada kasus tersebut adalah 3m + 5n = 19.000. Untuk mengetahui harga buku tulis dan bolpoin kita harus menentukan penyelesaian dari persamaan tersebut. Jika kita mengganti m dengan bilangan bulat positif (ingat bahwa m menyatakan harga 1 buku tulis), maka nilai n dapat diperoleh sebagai berikut. Misalkan m = 3.000 maka diperoleh: 3(3.000) + 5n = 19.000 9.000 + 5n = 19.000 5n = 19.000 - 9.000 5n = 10.000 n = 2.000 Apabila harga 1 buku tulis Rp3.000,00 maka harga 1 bolpoin Rp2.000,00. Pasangan berurutan (3.000, 2.000) merupakah salah satu penyelesaian dari persamaan 3m + 5n = 19.000. Apakah hanya (3.000, 2.000) penyelesaian dari persamaan tersebut? Tentu saja tidak. Apabila nilai m berubah maka nilai n bergantung pada nilai m, begitu pun sebaliknya." 
+      },
+      {
+        "id": "iqtf9hmdzvbkcowlqdz",
+         "name": "Bimbel kls 10 MTK",
+         "description": "Buku ini disajikan dalam delapan bab, yakni Bab 1 Eksponen dan Logaritma Bab 2 Barisan dan DeretBab 3 Vektor dan Operasinya Bab 4. Trigonometri Bab 5. Sistem Persamaan dan Pertidaksamaan Linear Bab 6. Fungsi Kuadrat Bab 7. Statistika Bab 8. Peluang",
+         "pictureId": "07.png",
+         "Kurikulum": "Merdeka",
+         "rating": 3.6,
+         "soal": "Dalam ujian Fisika, rata-rata nilai dari delapan siswa adalah 65. Rata-rata grup kedua yang berjumlah 12 siswa adalah 72. Hitunglah rata-rata gabungan dari kedua kelompok ini yang berjumlah 20 siswa. ",
+         "jawab": "jawab 8 x 65 =520  dan 12 x 72 = 864 jumlah 520 + 864 = 1.384 Rata rata gabungan = 1.384 : 20 = 69,2 " 
+      },
+      {
+        "id": "8i06gqcc2dpkcowlqdz",
+        "name": "Bimbel kls 11 MTK",
+        "description": "Buku ini disajikan dalam tiga bab, yakni Bab 1 Komposisi Fungsi dan Fungsi Invers Bab 2 Lingkaran Bab 3 Statistika  ",
+        "pictureId": "08.png",
+        "Kurikulum": "Merdeka",
+        "rating": 4,
+        "soal": "Hubungan antara keuntungan yang diperoleh dengan harga barang yang dijual diberikan sebagai U (x) = −75x 2 + 300x − 140, di mana x adalah harga barang dalam kelipatan Rp10.000,00. a. Apakah U(x) merupakan suatu fungsi? Jelaskan. b. Jika U(x) merupakan suatu fungsi, tentukan domain dan range-nya. c. Jika diinginkan keuntungan tertentu dapatkah diketahui harga barang? d. Jika U(x) merupakan suatu fungsi, apakah fungsi ini mempunyai invers? Jelaskan.",
+        "jawab": "jawab Berikut jawaban untuk nomor 1 secara berurutan: a) Iya b) Domain:  {x |  0,539 <=  x  <= 3,461}, Range: { y|  0<= y  ,= 160 } . c) Tentu  d) Iya, karena domainnya sudah dibatasi yakni semua bilangan kelipatan 10000" 
+      },
+      {
+        "id": "wf5o19xhxxkcowlqdz",
+       "name": "Bimbel Kls 11 MTK Lanjutan",
+        "description": "Buku ini disajikan dalam lima bab, yakni Bab 1 Bilangan Kompleks Bab 2 Polinomial Bab 3 Matriks Bab 4 Transformasi Geometri Bab 5 Fungsi dan Pemodelannya .",
+        "pictureId": "09.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Sebuah mobil mempunyai massa 1.200 kg. Mobil tersebut berpindah sejauh 30 m dari keadaan diam. Jika x adalah waktu (detik), untuk melihat pengaruh waktu terhadap besarnya gaya yang dilakukan terhadap mobil tersebut adalah sebagai berikut.   a). Tentukan fungsi f yang merupakan fungsi besar gaya. Ingat rumus gaya: F =ma, dengan a= v/ t dan v= s/ t  Keterangan F = gaya  a = percepatan  v = kecepatan  t = waktu  m = massa  s = jarak perpindahan",
+        "jawab": "jawab Rumus gaya adalah sebagai berikut. F = ma  m = v/t  m= s/txt  Karena m = 1200 kg,  s = 30m dan x menyatakan waktu, maka fungsi besar gaya adalah f (x) =   36000/x.x " 
+      },
+{
+        "id": "wf5o20xhxxkcowlqdz",
+       "name": "Bimbel Kls 12 MTK",
+        "description": "Buku ini disajikan dalam tiga bab, yakni Bab 1 Transformasi Fungsi Bab 2 Busur dan Juring Lingkaran Bab 3 Kombinatorik ",
+        "pictureId": "10.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Diketahui fungsi linear f(x) = 2x + 3y + 4. Jika f(x) mengalami pergeseran ke bawah sejauh 4 satuan, maka tentukan hasil translasi f(x). ",
+        "jawab": "jawab Diketahui: f(x) = 2x + 3y + 4      y = 2x + 3y + 4       y - 3y = 2x + 4        -2y = 2x + 4       y = - x -2    Karena bergeser 4 satuan ke bawah maka   y = f(x) + b untuk b < 0, hal ini berarti     y = -x - 2 - 4     y = -x - 6 Jadi, hasil   translasinya adalah     y = -x - 6 Pada translasi   y = f(x - a),     berlaku:   untuk a > 0, maka grafik bergeser ke kanan    untuk a < 0, maka grafik bergeser ke kiri sehingga translasi    y = f(x - a)     disebut sebagai bentuk Translasi Horizontal" 
+      },
+
+{
+        "id": "wf5o21xhxxkcowlqdz",
+       "name": "Bimbel Kls 12 MTK Lanjutan",
+        "description": "Buku ini disajikan dalam lima bab, yakni Bab 1 Geometri Analitik Bab 2 Limit Bab 3 Turunan Fungsi Bab 4 Integral Bab 5 Analisis Data Dan Peluang ",
+        "pictureId": "11.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Sebuah peluru ditembakkan vertikal ke atas dengan kecepatan awal 50 m/detik. Ketinggian peluru dalam h meter terhadap titik asal setelah t detik yang ditentukan oleh persamaan h(t) = 50t - 5tkuadrat .          a. Tentukan nilai h pada waktu t = 0 detik, t = 5 detik, dan t =10 detik!     b. Tentukan kecepatan peluru pada waktu t = 3 detik, t = 5 detik, dan t = 7 detik! ",
+        "jawab": "jawab Bagian a) Untuk menentukan nilai h atau nilai ketinggian, kalian dapat menyubstitusikan t pada persamaan h(t) = 50t - 5tkuadrat sehingga untuk t= 0, maka h(0) = 50t - 5tkuadrat = 0. untuk t = 5, maka h(5) = 50(5) - 5(5)kuadrat = 125 meter. untuk t = 10, maka h(10) = ............................................................ = ............ meter. Bagian b) Untuk menentukan nilai kecepatan suatu benda, kalian dapat menggunakan konsep turunan pertama suatu fungsi, sedangkan untuk percepatan kalian dapat menggunakan konsep turunan kedua suatu fungsi, sehingga dari persamaan h(t) = 50t - 5tkuadrat , maka persamaan kecepatan adalah v = dh/dt = d/dt (50t - 5tkuadrat ) = 50 - 10t,   sehingga,   Kecepatan pada t = 3 detik adalah 50 - 10(3) = 80 m/detik. Kecepatan pada t = 5 detik adalah 50 - 10(5) = 0 m/detik.   Kecepatan pada t = 7 detik adalah 50 - 10(7) = -20 m/detik." 
+      },
+
+{
+        "id": "wf5o22xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris kls 4",
+        "description": " CONTENTS 1. What Are You Doing? 2. There Are 67 English Books 3. My Living Room is Beside The Kitchen 4. Cici Cooks in The Kitchen 5.Where is My Pencil? 6. The Stove is in The Kitchen 7. I Can Make Fried Egg in The Kitchen 8. Be On Time! 9. I Go to School after Having Breakfeast 10. He Alwasys Gets Up at 5 O'clock 11. How Do You Go to School? 12. He Goes to School by Bike ",
+        "pictureId": "12.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "kls 4",
+        "jawab": "jawab" 
+      },
+
+{
+        "id": "wf5o23xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 5",
+        "description": "CONTENTS 1. What delicious bakso! 2. I want an ice cream cone 3. How much is it? 4. I have a stomachache 5. What a nice skirt! 6. Parts of our body that work together 7. How tall are you? 8. The giraffe is taller than the deer 9. The elephant is the biggest 10. I like playing “balap karung”",
+        "pictureId": "13.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "kls 4",
+        "jawab": "jawab" 
+      },
+
+{
+        "id": "wf5o24xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 7",
+        "description": "CONTENTS Chapter 0. The Beginning Chapter 1. About Me Chapter 2. Culinary and Me Chapter 3. Home Sweet Home Chapter 4. My School Activities Chapter 5. This is My School",
+        "pictureId": "14.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Think about your hobby. Describe what you need for your hobby, how many times you do your hobby, and the reason why you like to do your hobby. To describe your hobby, you may use the sentences below.",
+        "jawab": " My hobby is __________ I like __________ To do __________ I need __________ I often play __________ I usually play __________ I like to __________ because __________" 
+      },
+
+{
+        "id": "wf5o25xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 8",
+        "description": "CONTENT Chapter 0 The Beginning Chapter 1 Celebrating Independence Day Chapter 2 Kindness Begins with Me Chapter 3 Love Our World Chapter 4 No Littering Chapter 5 Embrace Yourself ",
+        "pictureId": "15.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "What happened last weekend? Make ‘Yes/No’ questions with the Simple Past tense. Use ‘Did’ for numbers 1 to 5, and use ‘Was’ or ‘Were’ for numbers 6 to 10.    1. you/ stay home __________________________ ?    2.  you/ help/ parents/ at home ___________________________?    3.  you/ play/ games ___________________________?      4.  you/ clean/ bedroom ___________________________?      5. you/ go out with friends ___________________________ ?       6. your best friend/ with you ___________________________ ?    7. there/ many people in your house ___________________________ ?    8. Your brothers or sisters/ at home ___________________________?    9. they/ nice to you? ___________________________?    10. you/ happy? ___________________________? ",
+        "jawab": "1. Did you stay home?    2. Did you help your parents at home?    3. Did you play (any) games?    4. Did you clean your bedroom?    5. Did you go out with friends?    6. Was your best friend with you?    7. Were there many people in your house?    8. Were your brothers or sisters at home?    9. Were they nice to you?    10. Were you happy?" 
+      },
+{
+        "id": "wf5o26xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 9",
+        "description": "CONTENT Chapter 0 The Beginning Chapter 1 Exploring Fauna of Indonesia Chapter 2 Taking Trips Chapter 3 Journey to Fantasy Worlds Chapter 4 Upcycling Used Materials Chapter 5 Digital Life",
+        "pictureId": "16.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Internet Safety Rules and What to Do Online Internet safety is the practice of following actionable guidelines, understanding modern technology, and protecting your digital devices. There are six behavior ideas to be safe online:    1. Verify someone’s identity What to do: always check someone’s identity. If someone seems very into themselves but doesn’t have online friends to show for it, that person may be an imposter!    2. Verify a link is safe What to do: First, always understand web addresses. They should begin with HTTPS. Second, know about hovering. Hovering is when you place your mouse cursor over a link (without clicking it) to see the link embedded in the text. If the link shows a different web when hovering with your mouse cursor, never click it!    3. Identify an online scam Online scams often take the form of unsolicited emails, instant messages, or text messages and they tell the recipient to do something, like click a link. What to do: Never click the link! If you do, it will cause your digital device trouble.    4. Protect your privacy How: • Always hide your phone numbers. • Always keep your addresses and contact information secret, even from social networks that ask for them.   5. Create passwords How: • Always create strong passwords that should be: • 10+ characters long • Including letters, numbers, and other characters • Unrelated to personal information • Easy to remember • Hard to guess • Unique 6. Become a good digital citizen What to do: • Always make safe choices when using the Internet. • Know how the Internet works, and warning signs that something may have gone wrong. (Source: https://www.aeseducation.com/computer-applications/what-is-internet-safety) Questions           1. What does “Internet safety” mean? The practice of following actionable guidelines, understanding modern technology, and protecting your digital devices.                                                           2. How do you know if someone is actually not him/herself? ______________________________________________________________________                                 3. How do you know when a link is safe? ______________________________________________________________________                               4. What does the word “it” in the “..., don’t click it!” refer to? ______________________________________________________________________                                      5. What do online scams usually ask you to do? ______________________________________________________________________                                6. Create one strong password according to point number 5 in the text. ______________________________________________________________________    ",
+        "jawab": "1. The practice of following actionable guidelines, understanding modern technology, and protecting your digital devices.      2. By checking his/her online identity.      3. When the web address begins with http.     4. A link.     5. To click on a link they send.     6. Accept any possible answer." 
+      },
+
+{
+        "id": "wf5o27xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 10",
+        "description": "CONTENT Chapter 1 Great Athletes Chapter 2 Sports Events Chapter 3 Sports and Health Chapter 4 Healthy Foods Chapter 5 Graiti Chapter 6 Fractured Stories",
+        "pictureId": "17.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Little Red Riding Hood (Traditional Version) One day, Little Red Riding Hood's mother gave her a basket with some cake inside and told her to walk through the forest to the other side where her grandmother lay sick in bed. “Remember not to talk to strangers!” Little Red Riding Hood’s mother said. On the way to her grandmother’s house, Little Red Riding Hood met the Big Bad Wolf. “Where are you going little girl?” he asked with his biggest smile. “To my grandmother’s house on the other side of the forest,” said Little Red Riding Hood who had forgotten what her mother told her.The wolf took a shortcut and ran ahead to Grandmother’s house. When he got there, he went inside and swallowed Grandmother whole! Then he put on her cap and nightgown and climbed into her bed. When Little Red Riding Hood got there, she walked right up to the bed. “Grandmother! What big ears you have,” she said. “All the better to hear you with my dear,” said the wolf. “And what big eyes you have,” she said. “All the better to see you with my dear,” said the wolf. “And what big teeth you have,” said Little Red Riding Hood. “All the better to eat you with!” said the wolf and he jumped out of bed and started chasing Little Red Riding Hood. A man who was chopping wood in the forest heard Little Red Riding Hood. He came inside and hit the wolf over the head with his axe. The wolf fell to the ground, and Grandmother popped out of his mouth. Then the woodsman, Little Red Riding Hood, and Grandmother all had cake and tea. Source: http://interactives.readwritethink.org/fractured-fairytale (Retrieved: March 23 2022)      1. Why did Little Red Riding Hood walk through the forest?      2. What rule did Little Red Riding Hood break when she talked to the wolf?      3. Why did the wolf ask Little Red Riding Hood where her grandmother lived?      4. What might happen if the woodsman were not there?",
+        "jawab": "1. To visit her sick grandmother      2. Not to talk to stranger      3. So that he could go to the grandmother’s house and ate her     4. Both the girl and the grandmother might be eaten by the wolf or any possible answer is accepted."  
+      },
+{
+        "id": "wf5o28xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 11",
+        "description": "CONTENT Unit 1 Digital Literacies and My Identities Unit 2 Love Your Environment Unit 3 Healthy Life for a Healthy Future Unit 4 Indonesian Environmental Figures Unit 5 Personal Money Management",
+        "pictureId": "18.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Indonesia is the second-biggest marine polluter in the world. It alone contributes to 10% of global marine pollution. Kuta Beach is Bali’s most popular and most visited destination and that clearly is visible since there are huge mounds of garbage on the beach that are collected on a daily basis. Especially during the rainy season, there is garbage awash on the shores. Authorities declared an emergency after they realized the volume of plastic thrown on the beach was turning into an endangering tourist trade. 100 tons of junk was being cleaned by workers on a daily basis. Source: Gurtoo, May 6, 2019  ",
+        "jawab": "Question Based on your previous knowledge about  the  picture  and  the  text,  answer  the  following questions. 1. What is the condition of the place?   2. What makes the situation occur?    3. What can we do to overcome the problem?   4. What would happen if the government put more attention to the condition?   5. What are the moral values related to the condition?  "  
+      },
+
+{
+        "id": "wf5o29xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 12",
+        "description": "CONTENT Unit 1 Narrative Text: The Story of a Friendly Future Unit 2 Argumentative Text: E-Money Unit 3 Hortatory Exposition: Netiquette Unit 4 Discussion Text: Carbon Footprints ",
+        "pictureId": "19.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "1.What do you know about e-money ?    2.Beside debit and credit cards what other examples of e-money that you know ?", 
+        "jawab": "1. E-money is a type of money which is stored in a user's account which can be accessed using a card or an electronic device, such as a mobile phone.   2. Ovo, Gopay, Dana, etc. " 
+      },
+{
+        "id": "wf5o30xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 11 Lanjutan",
+        "description": "CONTENT Unit 1 Legend Unit 2 Fairy Tale Unit 3 Fantasy Unit 4 Analytical Exposition Text Unit 5 Hortatory Exposition Text ",
+        "pictureId": "20.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Direct speech    1.“You will go away for seconds, not hours,” Edmund said.   2. “You go away for seconds, not hours,” Edmund said. 3. “You are going away for seconds, not hours,” Edmund said. 4. “You went away for seconds, not hours,” Edmund said.  5. “You were going away for seconds, not hours,” Edmund said. 6. “You have gone away for seconds, not hours,” Edmund said.",
+        "jawab": "Indirect Speech   1. Edmund said that I would go away for seconds, not hours.   2. Edmund said that I went away for seconds, not hours.   3. Edmund said that I was going away for seconds, not hours.    4. Edmund said that I had gone away for seconds, not hours.    5. Edmund said that I had been going away for seconds, not hours.   6. Edmund said that I had gone away for seconds, not hours."  
+      },
+{
+        "id": "wf5o31xhxxkcowlqdz",
+       "name": "Bimbel B.Inggris Kls 12 Lanjutan",
+        "description": "CONTENT 1. Digging the Hidden Gem of Borneo (Kalimantan) 2. Connected to Social Media 3. Get in Touch With Nature 4. Future Method of Payment 5. Today's Life ",
+        "pictureId": "21.png",
+        "Kurikulum": "Merdeka",
+        "rating": 3.9,
+        "soal": "Shall Financial Literacy Be Taught at School? Have you ever heard of the term financial literacy? It is the ability to apply knowledge and skills to successfully manage financial resources, preferably for lifetime financial well-being. In fact, it is something that most people need to work on a daily basis, and is an important component of our ongoing education. The presence of online transactions may trigger people to spend money easily. In addition, the offer of saving accounts, student loans, mortgages, health insurance, and investment have all become increasingly important. Inserting financial literacy as a part of the school curriculum will teach students effective financial management. Whether it is taught as a mandatory or additional subject, it ought to contain sufficient material for students to cover the basics to help them understand how to manage their monthly budgeting and prepare for their future financial planning. Early enrollment in a financial literacy course gives students the most opportunity to put their knowledge to use. While still in high school, many students who study financial literacy put what they learn into practice straight away. By learning from theory and practical tasks given by the teachers, they might avoid poor spending decisions which lead to unpaid debts, poor credits, housing or vehicle foreclosure, and even bankruptcy. They develop positive behaviors that eventually spread to their families, friends, and communities. Likewise, critics argue that teaching financial literacy in the classroom is unrealistic and ineffective. The school curriculum has been already overflowing with required subjects therefore it could be challenging to fit in an additional subject. Furthermore, teachers will be required to learn about this subject while in fact perhaps teachers are even financially illiterate themselves to deliver about this. Considering it might influence future financial safety, the experts in this field need to assign specifically what requires essential changes in the structure of the current curriculum. On the other hand, others believe that the knowledge about managing money is the responsibility of parents at home, not school. Parents can teach their kids starting from daily pocket money and monthly budget. Living in this era in which financial products and services have been more widely available in society, the necessity of managing money is inevitably urgent. Unlike previous generations, who may have purchased items primarily with cash, today’s consumers have more options of payments to use credit or debit cards, as well as electronic transfers. As a result, having the knowledge of financial literacy will improve the awareness in making decisions of choosing types of financial products that fit their budget. Therefore, it is suggested that students ought to learn and improve their financial literacy whether it is pursued formally at school or simply learned from their parents.      1. The government has launched a reading program to reduce the number of … students.      2. There was a high increase of … on health due to COVID-19 pandemic.      3. My parents always remind me to manage my money to ensure my future … success.      4. Most workers take out a … to buy a house.      5. The doctor spent 10 years completing his education, and he has worked hard to pay his student’s ….      6. The campaign hopes to raise … of financial literacy. 7. She has a long term … in consequence of opening the café.      8. Buying buildings in an elite district could be considered as a/ an …      9. The … of the employees has become the top priority here.      10. The island lacks … to compete with the other areas around. ",
+        "jawab": "1. illiterate      2. spending      3. financial      4. mortgage      5. loan      6. awareness      7. Debt      8. investment      9. Safety      10. resources" 
+      }
+    ]
+  }
+
